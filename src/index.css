@@ -1,0 +1,5 @@
+
+.completada {
+    text-decoration: line-through;
+    color: gray; /* Color opcional para las tareas completadas */
+}
