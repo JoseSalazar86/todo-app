@@ -17,7 +17,7 @@ const Formulario = ({ addTodo, editarTodo }) => {
             setTodo({
                 titulo: "",
                 descripcion: "",
-                estado: "pendiente",
+                estado: false,
                 priority: false
             });
         }
